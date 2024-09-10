@@ -11,6 +11,7 @@ choice. addEventListener("click",() =>{
     playgame(userchoised);
 });
 });
+// vivek
 const getcomputerchoice=()=>{
     const option=["rock","scissor","paper"];
     const mathidx=Math.floor(Math.random()*3);
